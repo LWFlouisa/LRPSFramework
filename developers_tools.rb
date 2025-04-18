@@ -56,6 +56,10 @@ def plural
 end
 
 loop do
+  logo = File.read("LRPSFramework/Logo/logo.txt")
+
+  puts logo
+
   puts "[rpg_metrics][needs_programming][create_monster_names]"
 
   print "Which tool would you like to use? << "; tool = gets.chomp
