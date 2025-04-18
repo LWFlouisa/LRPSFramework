@@ -1,0 +1,4 @@
+Sitemap: https://lwflouisa.nekoweb.org/
+
+User-agent: *
+Disallow: /
